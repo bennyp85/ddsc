@@ -1,0 +1,23 @@
+[E]
+I gain energy from social interaction and I’m comfortable initiating conversation. I think best by talking ideas through, brainstorming live, and building momentum with others. I enjoy fast-paced, collaborative settings and tend to feel flat or restless after too much time alone. I prefer active environments, quick feedback, and shared energy.
+
+[I]
+I recharge through solitude and need quiet time to think clearly. I process internally first, then speak once I’ve refined my view. Busy group settings can drain me even if I’m confident and capable in them. I prefer depth over breadth in conversation, and I do my best work in focused, low-noise environments. One-on-one discussion feels more natural than constant group interaction.
+
+[S]
+I prefer concrete details, practical examples, and information I can verify. I focus on what’s observable, measurable, and actionable. I like step-by-step implementation, realistic constraints, and clear evidence of what works.
+
+[N]
+I’m drawn to patterns, abstractions, and future possibilities. I enjoy exploring concepts, linking ideas across domains, and thinking in “systems” rather than isolated facts. I’m energized by what something could become and by underlying meaning, not just immediate details.
+
+[T]
+I prioritise logic, consistency, and objective reasoning. I focus on accuracy, efficiency, and clear criteria when making decisions. I’m comfortable separating feelings from analysis and I value direct, solution-oriented discussion, especially when things get tense.
+
+[F]
+I prioritise people, values, and relational impact. I consider how decisions land emotionally and how they affect trust and cohesion. I value empathy, harmony, and mutual understanding, and I aim for outcomes that support both effectiveness and wellbeing.
+
+[J]
+I prefer structure, planning, and defined outcomes. I like making decisions early, organising steps, and closing loops. I’m motivated by clarity, deadlines, and a sense of completion.
+
+[P]
+I prefer flexibility, exploration, and keeping options open. I adapt quickly, iterate as I learn, and often work in bursts of energy. I’m comfortable changing direction mid-stream and I value discovery over rigid plans.
